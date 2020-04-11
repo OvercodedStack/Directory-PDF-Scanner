@@ -25,6 +25,14 @@ If on windows, use this handy feature to locate the exact execution location:
 
 ![How_to](https://raw.githubusercontent.com/OvercodedStack/Directory-PDF-Scanner/master/Copy_paste.png)
 
+## Why was this created?
+
+I am a frustrated graduate student in CS. I understandably have several hundreds papers lying in directories which sometimes I have no idea what they are for. To organize them by hand is a pain but to write along with the citations for those papers is a bigger pain. I would use an automated tool for citation, however I don't feel like breaking my flow of understanding especially when I can recall what the paper was about using the authors and the paper title. Thus, this tool was born to combat that problem.
+
+# Why is development so slow?
+
+If you read above `graduate student in CS` quite possibly explains everything. I have too much on my table including procastination to add worthwhile features at the moment. 
+
 ## Goals
 
 This program was built out of frustration in trying to track what you have read so far. While printing out all your papers is easy, it's probably not cheap or environmentally friendly. This program intends to change that by helping you to simply drop all the details into a CSV file for Excel or LibreOffice manipulation. Current features include: 
@@ -36,6 +44,10 @@ This program was built out of frustration in trying to track what you have read 
   * Title
   * Index of paper as read from directoy
   * Some publisher details
+
+## Immediate future plans:
+
+## Recursive directory scanning to CSV. 
 
 
 ## Future Plans
@@ -49,6 +61,8 @@ Missing details will include:
 * Authors
 * Keywords
 * Abstract
+
+Possibly include a GUI for easier use. 
 
 ## License
 
