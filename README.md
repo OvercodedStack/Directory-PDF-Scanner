@@ -21,6 +21,10 @@ Simple script for obtaining the names and information from PDF files located ins
 * Simply use as a command line prompt in your python command line
 `python <directory where this script was installed>\Main.py <directory to be scanned>`  
 
+If on windows, use this handy feature to locate the exact execution location: 
+
+![How_to](https://raw.githubusercontent.com/OvercodedStack/Directory-PDF-Scanner/master/Copy_paste.png)
+
 ## Goals
 
 This program was built out of frustration in trying to track what you have read so far. While printing out all your papers is easy, it's probably not cheap or environmentally friendly. This program intends to change that by helping you to simply drop all the details into a CSV file for Excel or LibreOffice manipulation. Current features include: 
