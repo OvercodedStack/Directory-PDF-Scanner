@@ -25,6 +25,8 @@ If on windows, use this handy feature to locate the exact execution location:
 
 ![How_to](https://raw.githubusercontent.com/OvercodedStack/Directory-PDF-Scanner/master/Copy_paste.png)
 
+If properly ran, you should find a `results.csv` file inside of your target directory.
+
 ## Why was this created?
 
 I am a frustrated graduate student in CS. I understandably have several hundreds papers lying in directories which sometimes I have no idea what they are for. To organize them by hand is a pain but to write along with the citations for those papers is a bigger pain. I would use an automated tool for citation, however I don't feel like breaking my flow of understanding especially when I can recall what the paper was about using the authors and the paper title. Thus, this tool was born to combat that problem.
