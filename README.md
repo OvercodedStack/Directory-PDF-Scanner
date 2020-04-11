@@ -2,7 +2,7 @@
 Simple script for obtaining the names and information from PDF files located inside a directory and output directly to a CSV file. This program is intended to simplify research work for PDF files, specifically those for research papers.
 
 
-# VERSION-0.1-UPLOADED!!!!!!!!!
+# Version 0.1 Uploaded
 ## Features: 
 * Ability to scan through one directory and print out a .CSV file in the directory it was ran in
 * Ability to recognize most of the names of PDF files and place them into the .CSV file
