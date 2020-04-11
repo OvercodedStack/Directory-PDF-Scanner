@@ -1,6 +1,26 @@
 # Directory-PDF-Scanner
 Simple script for obtaining the names and information from PDF files located inside a directory and output directly to a CSV file. This program is intended to simplify research work for PDF files, specifically those for research papers.
 
+
+# VERSION-0.1-UPLOADED!!!!!!!!!
+## Features: 
+* Ability to scan through one directory and print out a .CSV file in the directory it was ran in
+* Ability to recognize most of the names of PDF files and place them into the .CSV file
+* Supports currently the following labels from the PDF:
+  * Index count
+  * Author
+  * Subject
+  * Title 
+
+## Requirements: 
+* Python 3.6+
+* PyPDF4 (Install in your favorite VEnv for Python using pip)
+
+## How to use: 
+
+* Simply use as a command line prompt in your python command line
+`python <directory where this script was installed>\Main.py <directory to be scanned>`  
+
 ## Goals
 
 This program was built out of frustration in trying to track what you have read so far. While printing out all your papers is easy, it's probably not cheap or environmentally friendly. This program intends to change that by helping you to simply drop all the details into a CSV file for Excel or LibreOffice manipulation. Current features include: 
